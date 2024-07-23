@@ -1,0 +1,14 @@
+total 2877
+drwxr-xr-x 1 Shaphil Shaphil       0 Jul 23 20:28 [0m[01;34m.[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m..[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m01 - Course Overview[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m02 - Creating CLI Applications[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m03 - Using the fmt Package[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m04 - Using the Log Package[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m05 - Working with the Time Package[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m06 - Working with Strings in Go[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Dec 29  2023 [01;34m07 - Implementing Reflection[0m/
+-rw-r--r-- 1 Shaphil Shaphil     132 Jul 23 01:37 desktop.ini
+drwxr-xr-x 1 Shaphil Shaphil       0 Jul 23 01:39 [01;34mexercise[0m/
+drwxr-xr-x 1 Shaphil Shaphil       0 Jul 23 01:39 [01;34mgo-standard-library[0m/
+-rw-r--r-- 1 Shaphil Shaphil 2914080 May 26  2023 go-standard-library.zip
