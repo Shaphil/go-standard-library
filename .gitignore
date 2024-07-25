@@ -26,3 +26,7 @@ go.work
 .idea/**
 .code
 .code/**
+
+# Log files
+*.log
+*log*.txt
