@@ -30,3 +30,7 @@ go.work
 # Log files
 *.log
 *log*.txt
+
+# Other
+outfile.csv
+
