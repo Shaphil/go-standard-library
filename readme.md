@@ -19,7 +19,6 @@ Basic operations, such as input/output, formatting, and logging aren't things yo
 │   ├── 05 - Reading Keyboard Inputs
 │   ├── 06 - Introducing Bufio
 │   └── 07 - Summary
-├── 02 - Creating CLI Applications.txt
 ├── 03 - Using the fmt Package
 │   ├── 01 - Introduction
 │   ├── 02 - Input Scanning
