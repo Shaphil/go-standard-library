@@ -1,0 +1,2 @@
+ERROR: 2024/07/25 19:40:08 logger.go:41: this is an error
+ERROR: 2024/07/28 19:40:08 logger.go:41: now we are in serious trouble
