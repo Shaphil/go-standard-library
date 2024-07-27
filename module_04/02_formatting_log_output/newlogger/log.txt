@@ -1,0 +1,4 @@
+INFO: 13:54:28.373630 E:/PluralSight/Go Core Language/03 - The Go Standard Library/exercise/go-standard-library/module_04/02_formatting_log_output/newlogger/newlogger.go:28: This is info
+WARNING: 13:54:28.373630 E:/PluralSight/Go Core Language/03 - The Go Standard Library/exercise/go-standard-library/module_04/02_formatting_log_output/newlogger/newlogger.go:29: Oh no, a warning!
+ERROR: 13:54:28.373630 E:/PluralSight/Go Core Language/03 - The Go Standard Library/exercise/go-standard-library/module_04/02_formatting_log_output/newlogger/newlogger.go:30: Error! Please Stop
+FATAL: 13:54:28.373630 E:/PluralSight/Go Core Language/03 - The Go Standard Library/exercise/go-standard-library/module_04/02_formatting_log_output/newlogger/newlogger.go:31: Program Quit

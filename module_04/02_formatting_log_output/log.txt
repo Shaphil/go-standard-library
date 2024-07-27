@@ -1,0 +1,4 @@
+INFO: 2024/07/25 19:40:08 ourfirstlog.go:35: this is an information message!
+WARNING: 2024/07/25 19:40:08 ourfirstlog.go:38: this is a warning
+ERROR: 2024/07/25 19:40:08 ourfirstlog.go:41: this is an error
+FATAL: 2024/07/25 19:40:08 ourfirstlog.go:44: we crashed

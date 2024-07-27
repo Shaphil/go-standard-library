@@ -28,8 +28,8 @@ go.work
 .code/**
 
 # Log files
-*.log
-*log*.txt
+#*.log
+#*log*.txt
 
 # Other
 outfile.csv

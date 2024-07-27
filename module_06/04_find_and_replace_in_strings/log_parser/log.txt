@@ -1,0 +1,8 @@
+INFO: 2024/07/25 19:40:08 logger.go:35: this is an information message!
+WARNING: 2024/07/25 19:40:08 logger.go:38: this is a warning
+ERROR: 2024/07/25 19:40:08 logger.go:41: this is an error
+FATAL: 2024/07/25 19:40:08 logger.go:44: we crashed
+INFO: 2024/07/26 19:40:08 logger.go:35: Ignore me
+INFO: 2024/07/27 19:40:08 logger.go:35: Ignore me too
+INFO: 2024/07/27 19:40:08 logger.go:35: logs are amazing
+ERROR: 2024/07/28 19:40:08 logger.go:41: now we are in serious trouble
