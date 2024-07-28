@@ -4,10 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	// https://pkg.go.dev/golang.org/x/text/cases#Title
-	// https://pkg.go.dev/golang.org/x/text/cases#example-package
-	"golang.org/x/text/cases"
-	"golang.org/x/text/language"
+	utils "shaphil.me/go-standard-library"
 )
 
 func main() {
@@ -20,8 +17,7 @@ func main() {
 	upper := strings.ToUpper(sampleString)
 	fmt.Println("UPPER CASE:", upper)
 
-	toTitle := cases.Title(language.English)
-	titleCase := toTitle.String(sampleString)
+	titleCase := utils.ToTitle(sampleString)
 	fmt.Println("Title Case:", titleCase)
 
 	fmt.Println("Proper Title Case:", properTitle(sampleString))
