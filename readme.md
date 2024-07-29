@@ -1,10 +1,18 @@
 # The Go Standard Library
 
-The Go standard library is a set of packages that contain pre-written code to help you build applications at a faster rate. This course will show you how to leverage these packages to handle input, read and write files, create logs, and more.
+by [Jeremy Morgan](https://app.pluralsight.com/profile/author/jeremy-morgan)
+
+The Go standard library is a set of packages that contain pre-written code to help you build applications at a faster
+rate. This course will show you how to leverage these packages to handle input, read and write files, create logs, and
+more.
 
 ## What you'll learn
 
-Basic operations, such as input/output, formatting, and logging aren't things you want to write by hand. In this course, The Go Standard Library, you’ll gain the ability to leverage these libraries to develop applications faster. First, you’ll explore creating command line applications. Next, you’ll discover handling input and output. Finally, you’ll learn how to format strings and data to your exact requirements. When you’re finished with this course, you’ll have the skills and knowledge of the Go standard library needed to cut down development time with your Go applications.
+Basic operations, such as input/output, formatting, and logging aren't things you want to write by hand. In this course,
+The Go Standard Library, you’ll gain the ability to leverage these libraries to develop applications faster. First,
+you’ll explore creating command line applications. Next, you’ll discover handling input and output. Finally, you’ll
+learn how to format strings and data to your exact requirements. When you’re finished with this course, you’ll have the
+skills and knowledge of the Go standard library needed to cut down development time with your Go applications.
 
 ## Content
 
